@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = robyn.victoria.ellison@gmail.com
-	name = Robyn Ellison
+	email = Ellison
+	name = Robyn
